@@ -6,4 +6,4 @@
  * Time: 19:20
  */
 phpinfo();
-echo 'Test!';
+echo 'Test!!!';
