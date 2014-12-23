@@ -7,3 +7,4 @@
  */
 phpinfo();
 /*New branch for menu*/
+echo 'Test data.';
