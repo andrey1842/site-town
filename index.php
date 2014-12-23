@@ -8,5 +8,5 @@
 phpinfo();
 
 /*New branch for menu*/
-echo 'Test data.!!!!!!';
+echo 'Test!!!!!!';
 /*test data*/
