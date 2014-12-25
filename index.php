@@ -11,3 +11,4 @@ phpinfo();
 echo 'Test!!!!!!';
 echo 'Data.';
 /*test data*/
+echo "Test for remote";
